@@ -29,6 +29,6 @@
       "url": "https://github.com/blubbel01/vio-api"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/blubbel01"
+    "@blubbel01:registry": "https://npm.pkg.github.com"
   }
 }
